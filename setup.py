@@ -17,6 +17,8 @@ def get_requirements(file_path:str)->List[str]:
         
     return  requirements
 
+''' this below code executes the  installation of packages required for this project'''
+
 setup(
 name='mlproject',
 version='1.0',
